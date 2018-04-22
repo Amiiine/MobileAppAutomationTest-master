@@ -1,0 +1,4 @@
+References :
+http://www.qaautomated.com/2016/10/how-to-test-autocomplete-text-box-with.html
+http://www.vogella.com/tutorials/AndroidTestingEspresso/article.html
+https://stackoverflow.com/questions/36284605/testing-autocomplete-textview-using-espresso-tool
